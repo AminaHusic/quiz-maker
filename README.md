@@ -23,20 +23,25 @@ Make sure you have the following installed on your system:
 
 1. **Clone the repository:**
 
-   ```ssh
+   ```
    git clone git@github.com:AminaHusic/quiz-maker.git
    cd quiz-maker
-
    ```
 
 2. **Install the dependencies**
 
+```
 npm install
+```
 
 3. **Running the App**
 
+```
 npm run start
+```
 
 4. **Building for Production**
 
+```
 npm run build
+```
