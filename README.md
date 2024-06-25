@@ -4,7 +4,7 @@ Quiz Maker is a React application that allows users to create, edit, and take qu
 
 ## Features
 
-- Create and edit quizzes with multiple-choice questions.
+- Create and edit quizzes with questions.
 - Take quizzes.
 - Responsive design for mobile and desktop use.
 
